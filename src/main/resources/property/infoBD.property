@@ -1,0 +1,6 @@
+connection.url=jdbc:h2:tcp://localhost/~/test
+server.port=8085
+CLASS_DRIVER=org.h2.Driver
+JDBC_URL=jdbc:h2:tcp://localhost/~/test
+NAME_USER=sa
+PASSWORD_USER=

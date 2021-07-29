@@ -1,0 +1,3 @@
+INSERT INTO USERS(LOGIN, PASSWORD, FIRST_NAME, LAST_NAME, MIDDLE_NAME, PASSPORT, MOBILE_PHONE, ROLE)
+VALUES ('admin', '$2a$10$ByXXAs0sCoDlcnhwkyR7U.cg5UVRa9B12ZQovtPajTa7aTXqFts8q', 'Sam', 'Rusanov', 'Alekseevich',
+        '1', '1', 'EMPLOYEE')
