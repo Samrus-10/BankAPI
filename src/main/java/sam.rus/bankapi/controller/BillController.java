@@ -24,6 +24,7 @@ public class BillController implements HttpHandler {
     private final BillConvertor billMapper = new BillConvertor();
 
     public BillController() {
+
     }
 
     public BillController(BillServiceImpl billServiceImpl, UserServiceImpl userServiceImpl) {
